@@ -1,1 +1,1 @@
-# Ciphers
+Ciphers are an amazing way of encrypting messages. Ever wonder how these big giant social media companies keep your messages encypted. It's by the means of using encryption ciphers. Attached is a quick naive approach to the ROT13 and Ceaser's Cipher. The logic makes use a comprehensive if-else statement. For someone trying to make their ciphers, I recommend using the switch case structure to make the code more concise and easily understanable.
